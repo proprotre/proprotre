@@ -41,7 +41,7 @@ Tenho 24 anos, moro em São Paulo no Brasil, amo estudar e aprender novas tecnol
 </br>
 <div display="inline-block">
  <p align="left">📚 Tenho estudado JavaScript, React, React Native e Python;</p>
- <p align="left">☕ Sempre acompanhado de minha xicará de café;</p>
+ <p align="left">Amo estudar ❤️ !  Ainda mais quando estou acompanhado da minha xicará de café ☕ ;</p>
 </div>
 
 </p>
