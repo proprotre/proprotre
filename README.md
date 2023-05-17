@@ -15,7 +15,7 @@
 
 ## Seja bem vindos, Devs!!
 
-Tenho 24 anos, moro em São Paulo no Brasil, amo estudar e aprender novas tecnologias, se perguntar para mim qual é o meu hobby favorito, respondo com toda certeza que é 🖥️programar e 📚estudar, para alguns o hobby pode ser jogar um 🎮game, mas sinseramente, quando estou programando a hora voa e o tempo passa muito rápido, amo de coração a tecnologia, desde que descobri essa área de desenvolvimento, encontrei um novo amor❤️!
+Tenho 24 anos, moro em São Paulo no Brasil, amo estudar e aprender novas tecnologias, se perguntar para mim qual é o meu hobby favorito, respondo com toda certeza que é 🖥️programar e 📚estudar, para alguns o hobby pode ser jogar um 🎮game, mas sinceramente, quando estou programando a hora voa e o tempo passa muito rápido, amo de coração a tecnologia, desde que descobri essa área de desenvolvimento, encontrei um novo amor❤️!
 
 <p align="center">
   <img src="https://i.imgur.com/Jlfglot.png" width="350">
