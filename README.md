@@ -36,6 +36,7 @@ Tenho 25 anos, moro em São Paulo no Brasil, amo estudar e aprender novas tecnol
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "CSharp"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap 5"/></code>
 
 
 </br>
